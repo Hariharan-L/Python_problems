@@ -1,27 +1,27 @@
-# r=int(input("Enter the radius:"))#diameter of the sphere
-# volume = (4/3)*3.14*r**3
-# # vol=int(volume)
-# print(int(volume))
-# # print(volume)
-# import pandas
-# r=dir(pandas)
-# print(r)
+ r=int(input("Enter the radius:"))#diameter of the sphere
+ volume = (4/3)*3.14*r**3
+ # vol=int(volume)
+ print(int(volume))
+ # print(volume)
+ import pandas
+ r=dir(pandas)
+ print(r)
+
+ str="DasdFNJadlclmscnljjkjdkKkjdkJJJJKJK"
+ s=str.upper()
+ print(s)
 
 # str="DasdFNJadlclmscnljjkjdkKkjdkJJJJKJK"
-# s=str.upper()
-# print(s)
+ d=str.lower()
+ print(d)
 
 # str="DasdFNJadlclmscnljjkjdkKkjdkJJJJKJK"
-# d=str.lower()
-# print(d)
+ j=str.capitalize()
+ print(j)
 
 # str="DasdFNJadlclmscnljjkjdkKkjdkJJJJKJK"
-# j=str.capitalize()
-# print(j)
-
-# str="DasdFNJadlclmscnljjkjdkKkjdkJJJJKJK"
-# le=str.swapcase()
-# print(le)
+ le=str.swapcase()
+ print(le)
 #### arithematic opeateros ####
 # exponent == **
 # parantheses == ()
@@ -61,12 +61,12 @@
 
 
 
-# # 011
-# # 010
-# a=20.5
-# b=3
-# # print(a and b)
-# p=5.0
-# print(a//b)
+ # 011
+ # 010
+ a=20.5
+ b=3 
+ print(a and b)
+ p=5.0
+ print(a//b)
 
 
