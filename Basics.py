@@ -22,6 +22,9 @@
 # str="DasdFNJadlclmscnljjkjdkKkjdkJJJJKJK"
  le=str.swapcase()
  print(le)
+ 
+ 
+ 
 #### arithematic opeateros ####
 # exponent == **
 # parantheses == ()
